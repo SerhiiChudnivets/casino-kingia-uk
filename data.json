@@ -37,53 +37,61 @@
       "slots": [
         {
           "link": "/play/",
-          "logo": "",
-          "name": "",
-          "Name": ""
+          "logo": "/uploads/672a04bafac82bac397c4e5bb773a89f.webp",
+          "name": "Big Bass Bonanza",
+          "Name": "Big Bass Bonanza",
+          "logo_alt": "Big Bass Bonanza"
         },
         {
           "link": "/play/",
-          "logo": "",
-          "name": "",
-          "Name": ""
+          "logo": "/uploads/031de5e2b6779dfca9f31d5fd9e7cc51.webp",
+          "name": "Razor Shark",
+          "Name": "Razor Shark",
+          "logo_alt": "Razor Shark"
         },
         {
           "link": "/play/",
-          "logo": "",
-          "name": "",
-          "Name": ""
+          "logo": "/uploads/67208159a9e5f8396e714ec60dcf5e83.webp",
+          "name": "Stormforged",
+          "Name": "Stormforged",
+          "logo_alt": "stormforged"
         },
         {
           "link": "/play/",
-          "logo": "",
-          "name": "",
-          "Name": ""
+          "logo": "/uploads/203c5ede1f8648621ea02951729b852f.webp",
+          "name": "JetX",
+          "Name": "JetX",
+          "logo_alt": "JetX"
         }
       ],
       "bonuses": [
         {
           "link": "/play/",
-          "logo": "",
-          "name": "",
-          "Name": ""
+          "logo": "/uploads/32c02a3fed09a205b7c4720662b18c71.webp",
+          "name": "Wheel of Gods: Free Spin Daily",
+          "Name": "Wheel of Gods: Free Spin Daily",
+          "logo_alt": "Sport Bonus"
         },
         {
           "link": "/play/",
-          "logo": "",
-          "name": "",
-          "Name": ""
+          "logo": "/uploads/639349a37cc6ac7b8e73501da737506d.webp",
+          "name": "Daily Rakeback: up to 60%",
+          "Name": "Daily Rakeback: up to 60%",
+          "logo_alt": "Weekly Bonus"
         },
         {
           "link": "/play/",
-          "logo": "",
-          "name": "",
-          "Name": ""
+          "logo": "/uploads/ff3799c304493a4eadcd34d7ed511ace.webp",
+          "name": "VIP Cashback: 3% to 40%",
+          "Name": "VIP Cashback: 3% to 40%",
+          "logo_alt": "Welcome Bonus"
         },
         {
           "link": "/play/",
-          "logo": "",
-          "name": "",
-          "Name": ""
+          "logo": "/uploads/4d2c57274ad41f70797e49427599fbc6.webp",
+          "name": "Jackpot Prize Pool: £850,000",
+          "Name": "Jackpot Prize Pool: £850,000",
+          "logo_alt": "Crypto Bonus"
         }
       ],
       "faq": [],
@@ -274,53 +282,61 @@
   "Slots": [
     {
       "link": "/play/",
-      "logo": "",
-      "name": "",
-      "Name": ""
+      "logo": "/uploads/672a04bafac82bac397c4e5bb773a89f.webp",
+      "name": "Big Bass Bonanza",
+      "Name": "Big Bass Bonanza",
+      "logo_alt": "Big Bass Bonanza"
     },
     {
       "link": "/play/",
-      "logo": "",
-      "name": "",
-      "Name": ""
+      "logo": "/uploads/031de5e2b6779dfca9f31d5fd9e7cc51.webp",
+      "name": "Razor Shark",
+      "Name": "Razor Shark",
+      "logo_alt": "Razor Shark"
     },
     {
       "link": "/play/",
-      "logo": "",
-      "name": "",
-      "Name": ""
+      "logo": "/uploads/67208159a9e5f8396e714ec60dcf5e83.webp",
+      "name": "Stormforged",
+      "Name": "Stormforged",
+      "logo_alt": "stormforged"
     },
     {
       "link": "/play/",
-      "logo": "",
-      "name": "",
-      "Name": ""
+      "logo": "/uploads/203c5ede1f8648621ea02951729b852f.webp",
+      "name": "JetX",
+      "Name": "JetX",
+      "logo_alt": "JetX"
     }
   ],
   "Bonuses": [
     {
       "link": "/play/",
-      "logo": "",
-      "name": "",
-      "Name": ""
+      "logo": "/uploads/32c02a3fed09a205b7c4720662b18c71.webp",
+      "name": "Wheel of Gods: Free Spin Daily",
+      "Name": "Wheel of Gods: Free Spin Daily",
+      "logo_alt": "Sport Bonus"
     },
     {
       "link": "/play/",
-      "logo": "",
-      "name": "",
-      "Name": ""
+      "logo": "/uploads/639349a37cc6ac7b8e73501da737506d.webp",
+      "name": "Daily Rakeback: up to 60%",
+      "Name": "Daily Rakeback: up to 60%",
+      "logo_alt": "Weekly Bonus"
     },
     {
       "link": "/play/",
-      "logo": "",
-      "name": "",
-      "Name": ""
+      "logo": "/uploads/ff3799c304493a4eadcd34d7ed511ace.webp",
+      "name": "VIP Cashback: 3% to 40%",
+      "Name": "VIP Cashback: 3% to 40%",
+      "logo_alt": "Welcome Bonus"
     },
     {
       "link": "/play/",
-      "logo": "",
-      "name": "",
-      "Name": ""
+      "logo": "/uploads/4d2c57274ad41f70797e49427599fbc6.webp",
+      "name": "Jackpot Prize Pool: £850,000",
+      "Name": "Jackpot Prize Pool: £850,000",
+      "logo_alt": "Crypto Bonus"
     }
   ],
   "Reviews": null,
@@ -350,8 +366,8 @@
       "question": "Can I bet on sports at Kingia?"
     }
   ],
-  "_generated_at": "2026-11-20T15:27:10.133Z",
+  "_generated_at": "2026-11-20T15:42:28.407Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-11-20T15:27:10.818Z",
-  "_deploy_trigger": "bk9r8c"
+  "_last_deploy": "2026-11-20T15:42:29.123Z",
+  "_deploy_trigger": "q65s"
 }
